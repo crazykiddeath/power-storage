@@ -1,0 +1,58 @@
+{
+    "type": "recipe",
+    "result": "bio_power_storage",
+    "id_suffix": "from_readding",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_CBMS",
+    "skill_used": "electronics",
+    "skills_required": [ "firstaid", 5 ],
+    "difficulty": 6,
+    "time": 50000,
+    "reversible": true,
+    "autolearn": true,
+    "batch_time_factors": [ 80, 4 ],
+    "qualities": [ { "id":"SCREW","level":1 } ],
+    "tools": [ [ [ "soldering_standard", 20, "LIST" ] ] ],
+    "components": [
+    [
+      [ "power_supply", 6 ],
+      [ "UPS_off", 1 ]
+    ],
+    [ [ "amplifier", 4 ] ],
+    [ [ "plut_cell", 1 ] ],
+    [
+      [ "burnt_out_bionic", 1 ],
+      [ "processor", 2 ]
+    ]
+  ]
+},{
+    "type": "recipe",
+    "result": "bio_power_storage_mkII",
+    "id_suffix": "from_readding",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_CBMS",
+    "skill_used": "electronics",
+   "skills_required": [ "firstaid", 5 ],
+ 
+    "difficulty": 9,
+    "time": 50000,
+   "reversible": true,
+
+    "autolearn": true,
+    "batch_time_factors": [ 80, 4 ],
+    "qualities": [ { "id":"SCREW","level":1 } ],
+    "tools": [ [ [ "soldering_standard", 20, "LIST" ] ] ],
+    "components": [
+    [
+      [ "power_supply", 10 ],
+      [ "UPS_off", 2 ],
+      [ "adv_UPS_off", 1 ]
+    ],
+    [ [ "amplifier", 6 ] ],
+    [ [ "plut_cell", 2 ] ],
+    [
+      [ "burnt_out_bionic", 1 ],
+      [ "processor", 2 ]
+    ]
+  ]
+}
