@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "CBMSbackbaby",
+    "name": "CBMSbackbaby",
+    "authors": "Crazykiddeath",
+    "description": "Adds back the power storage CBM recipes",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
