@@ -1,4 +1,4 @@
-{
+[ {
     "type": "recipe",
     "result": "bio_power_storage",
     "id_suffix": "from_readding",
@@ -55,4 +55,4 @@
       [ "processor", 2 ]
     ]
   ]
-}
+} ]
